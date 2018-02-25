@@ -17,7 +17,7 @@ public class JwtConfiguration {
 	private String key;
 	
 	/**
-	 * 
+	 * 发放者
 	 */
 	private String iss;
 	
